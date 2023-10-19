@@ -1,3 +1,3 @@
-# CA1_netpyne
+# Import large SONATA files into NetPyNE
 
-CA1 in netpyne
+Import large SONATA files into NetPyNE
