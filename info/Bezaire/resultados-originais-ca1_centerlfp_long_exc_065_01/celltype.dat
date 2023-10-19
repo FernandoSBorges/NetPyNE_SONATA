@@ -1,0 +1,12 @@
+celltype	techtype	typeIndex	rangeStart	rangeEnd
+axoaxoniccell	axoaxoniccell	0	0	1469
+bistratifiedcell	bistratifiedcell	1	1470	3679
+cckcell	cckcell	2	3680	7279
+ivycell	ivycell	3	7280	16089
+ngfcell	ngfcell	4	16090	19669
+olmcell	olmcell	5	19670	21309
+pyramidalcell	poolosyncell	6	21310	332809
+pvbasketcell	pvbasketcell	7	332810	338339
+scacell	scacell	8	338340	338739
+ca3cell	ppspont	9	338740	543439
+eccell	ppspont	10	543440	793439

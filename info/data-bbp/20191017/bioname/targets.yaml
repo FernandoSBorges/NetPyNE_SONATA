@@ -1,0 +1,13 @@
+targets:
+    query_based:
+        mc0_Column: {'region': '@mc0.*'}
+        mc1_Column: {'region': '@mc1.*'}
+        mc2_Column: {'region': '@mc2.*'}
+        mc3_Column: {'region': '@mc3.*'}
+        mc4_Column: {'region': '@mc4.*'}
+        mc5_Column: {'region': '@mc5.*'}
+        mc6_Column: {'region': '@mc6.*'}
+        SLM: {'region': '@.*SLM'}
+        SO: {'region': '@.*SO'}
+        SP: {'region': '@.*SP'}
+        SR: {'region': '@.*SR'}

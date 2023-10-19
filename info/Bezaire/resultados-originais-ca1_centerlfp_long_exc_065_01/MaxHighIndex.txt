@@ -1,0 +1,3 @@
+connection_highIndex=545734.000000;
+synapse_highIndex=23424.000000;
+stimulation_highIndex=13.000000;

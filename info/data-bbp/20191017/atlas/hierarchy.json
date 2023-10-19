@@ -1,0 +1,196 @@
+{
+  "id": 65535,
+  "acronym": "O1",
+  "name": "O1 mosaic",
+  "children": [
+    {
+      "id": 1,
+      "acronym": "mc0",
+      "name": "hypercolumn 0",
+      "children": [
+        {
+          "id": 8,
+          "acronym": "mc0;SO",
+          "name": "hypercolumn 0, SO"
+        },
+        {
+          "id": 15,
+          "acronym": "mc0;SP",
+          "name": "hypercolumn 0, SP"
+        },
+        {
+          "id": 22,
+          "acronym": "mc0;SR",
+          "name": "hypercolumn 0, SR"
+        },
+        {
+          "id": 29,
+          "acronym": "mc0;SLM",
+          "name": "hypercolumn 0, SLM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "acronym": "mc1",
+      "name": "hypercolumn 1",
+      "children": [
+        {
+          "id": 9,
+          "acronym": "mc1;SO",
+          "name": "hypercolumn 1, SO"
+        },
+        {
+          "id": 16,
+          "acronym": "mc1;SP",
+          "name": "hypercolumn 1, SP"
+        },
+        {
+          "id": 23,
+          "acronym": "mc1;SR",
+          "name": "hypercolumn 1, SR"
+        },
+        {
+          "id": 30,
+          "acronym": "mc1;SLM",
+          "name": "hypercolumn 1, SLM"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "acronym": "mc2",
+      "name": "hypercolumn 2",
+      "children": [
+        {
+          "id": 10,
+          "acronym": "mc2;SO",
+          "name": "hypercolumn 2, SO"
+        },
+        {
+          "id": 17,
+          "acronym": "mc2;SP",
+          "name": "hypercolumn 2, SP"
+        },
+        {
+          "id": 24,
+          "acronym": "mc2;SR",
+          "name": "hypercolumn 2, SR"
+        },
+        {
+          "id": 31,
+          "acronym": "mc2;SLM",
+          "name": "hypercolumn 2, SLM"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "acronym": "mc3",
+      "name": "hypercolumn 3",
+      "children": [
+        {
+          "id": 11,
+          "acronym": "mc3;SO",
+          "name": "hypercolumn 3, SO"
+        },
+        {
+          "id": 18,
+          "acronym": "mc3;SP",
+          "name": "hypercolumn 3, SP"
+        },
+        {
+          "id": 25,
+          "acronym": "mc3;SR",
+          "name": "hypercolumn 3, SR"
+        },
+        {
+          "id": 32,
+          "acronym": "mc3;SLM",
+          "name": "hypercolumn 3, SLM"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "acronym": "mc4",
+      "name": "hypercolumn 4",
+      "children": [
+        {
+          "id": 12,
+          "acronym": "mc4;SO",
+          "name": "hypercolumn 4, SO"
+        },
+        {
+          "id": 19,
+          "acronym": "mc4;SP",
+          "name": "hypercolumn 4, SP"
+        },
+        {
+          "id": 26,
+          "acronym": "mc4;SR",
+          "name": "hypercolumn 4, SR"
+        },
+        {
+          "id": 33,
+          "acronym": "mc4;SLM",
+          "name": "hypercolumn 4, SLM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "acronym": "mc5",
+      "name": "hypercolumn 5",
+      "children": [
+        {
+          "id": 13,
+          "acronym": "mc5;SO",
+          "name": "hypercolumn 5, SO"
+        },
+        {
+          "id": 20,
+          "acronym": "mc5;SP",
+          "name": "hypercolumn 5, SP"
+        },
+        {
+          "id": 27,
+          "acronym": "mc5;SR",
+          "name": "hypercolumn 5, SR"
+        },
+        {
+          "id": 34,
+          "acronym": "mc5;SLM",
+          "name": "hypercolumn 5, SLM"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "acronym": "mc6",
+      "name": "hypercolumn 6",
+      "children": [
+        {
+          "id": 14,
+          "acronym": "mc6;SO",
+          "name": "hypercolumn 6, SO"
+        },
+        {
+          "id": 21,
+          "acronym": "mc6;SP",
+          "name": "hypercolumn 6, SP"
+        },
+        {
+          "id": 28,
+          "acronym": "mc6;SR",
+          "name": "hypercolumn 6, SR"
+        },
+        {
+          "id": 35,
+          "acronym": "mc6;SLM",
+          "name": "hypercolumn 6, SLM"
+        }
+      ]
+    }
+  ]
+}

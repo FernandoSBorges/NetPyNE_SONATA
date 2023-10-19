@@ -1,0 +1,387 @@
+Command exited with non-zero status 1
+Elapsed Time = 3:07.62, CPU Usage = 71%, CPU Time= 1.07, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 3:09.84, CPU Usage = 70%, CPU Time= 0.99, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 3:17.31, CPU Usage = 68%, CPU Time= 1.06, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 6:15.64, CPU Usage = 85%, CPU Time= 1.26, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 6:25.14, CPU Usage = 84%, CPU Time= 1.03, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 6:29.59, CPU Usage = 85%, CPU Time= 1.35, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 6:39.95, CPU Usage = 85%, CPU Time= 1.20, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 6:46.52, CPU Usage = 88%, CPU Time= 1.14, Job = 4
+Command exited with non-zero status 1
+Elapsed Time = 3:12.17, CPU Usage = 70%, CPU Time= 1.25, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 3:15.43, CPU Usage = 69%, CPU Time= 0.84, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 3:26.74, CPU Usage = 67%, CPU Time= 1.10, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 7:18.89, CPU Usage = 73%, CPU Time= 1.56, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 7:48.48, CPU Usage = 69%, CPU Time= 1.88, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 8:23.29, CPU Usage = 69%, CPU Time= 1.64, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 8:43.08, CPU Usage = 68%, CPU Time= 1.73, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 8:47.16, CPU Usage = 69%, CPU Time= 1.73, Job = 4
+Elapsed Time = 4:20.51, CPU Usage = 54%, CPU Time= 1.36, Job = 2
+Elapsed Time = 4:23.55, CPU Usage = 53%, CPU Time= 1.37, Job = 1
+Elapsed Time = 4:29.16, CPU Usage = 52%, CPU Time= 1.18, Job = 0
+Elapsed Time = 7:15.48, CPU Usage = 75%, CPU Time= 1.61, Job = 6
+Elapsed Time = 7:36.89, CPU Usage = 72%, CPU Time= 1.31, Job = 5
+Elapsed Time = 7:39.99, CPU Usage = 72%, CPU Time= 1.17, Job = 7
+Elapsed Time = 7:50.88, CPU Usage = 73%, CPU Time= 1.16, Job = 3
+Elapsed Time = 7:58.72, CPU Usage = 74%, CPU Time= 1.51, Job = 4
+Elapsed Time = 3:19.73, CPU Usage = 70%, CPU Time= 1.14, Job = 1
+Elapsed Time = 3:24.20, CPU Usage = 67%, CPU Time= 1.13, Job = 0
+Elapsed Time = 3:32.22, CPU Usage = 67%, CPU Time= 1.59, Job = 2
+Elapsed Time = 6:33.34, CPU Usage = 84%, CPU Time= 1.28, Job = 6
+Elapsed Time = 6:40.92, CPU Usage = 82%, CPU Time= 1.85, Job = 5
+Elapsed Time = 6:45.52, CPU Usage = 84%, CPU Time= 1.39, Job = 7
+Elapsed Time = 6:53.52, CPU Usage = 84%, CPU Time= 1.33, Job = 4
+Elapsed Time = 7:00.45, CPU Usage = 89%, CPU Time= 1.01, Job = 3
+Elapsed Time = 1:53.96, CPU Usage = 67%, CPU Time= 0.77, Job = 0
+Elapsed Time = 1:58.90, CPU Usage = 64%, CPU Time= 0.69, Job = 1
+Elapsed Time = 1:58.33, CPU Usage = 65%, CPU Time= 0.78, Job = 2
+Elapsed Time = 3:44.04, CPU Usage = 81%, CPU Time= 0.91, Job = 5
+Elapsed Time = 3:43.53, CPU Usage = 81%, CPU Time= 0.90, Job = 6
+Elapsed Time = 3:48.20, CPU Usage = 82%, CPU Time= 0.83, Job = 7
+Elapsed Time = 3:57.93, CPU Usage = 81%, CPU Time= 0.86, Job = 4
+Elapsed Time = 3:59.88, CPU Usage = 84%, CPU Time= 1.25, Job = 3
+Elapsed Time = 9:00.97, CPU Usage = 36%, CPU Time= 1.89, Job = 14
+Elapsed Time = 9:12.99, CPU Usage = 36%, CPU Time= 1.43, Job = 15
+Elapsed Time = 9:09.12, CPU Usage = 35%, CPU Time= 2.13, Job = 23
+Elapsed Time = 9:17.73, CPU Usage = 37%, CPU Time= 1.66, Job = 16
+Elapsed Time = 9:24.65, CPU Usage = 34%, CPU Time= 2.06, Job = 13
+Elapsed Time = 9:43.85, CPU Usage = 35%, CPU Time= 1.81, Job = 8
+Elapsed Time = 9:39.92, CPU Usage = 35%, CPU Time= 2.22, Job = 12
+Elapsed Time = 9:40.17, CPU Usage = 34%, CPU Time= 1.80, Job = 17
+Elapsed Time = 9:38.22, CPU Usage = 37%, CPU Time= 2.19, Job = 21
+Elapsed Time = 9:42.01, CPU Usage = 33%, CPU Time= 2.00, Job = 18
+Elapsed Time = 9:51.15, CPU Usage = 32%, CPU Time= 1.26, Job = 9
+Elapsed Time = 9:42.23, CPU Usage = 37%, CPU Time= 1.91, Job = 20
+Elapsed Time = 9:42.12, CPU Usage = 37%, CPU Time= 2.43, Job = 22
+Elapsed Time = 9:58.74, CPU Usage = 33%, CPU Time= 1.16, Job = 10
+Elapsed Time = 9:59.40, CPU Usage = 36%, CPU Time= 2.24, Job = 11
+Elapsed Time = 9:57.48, CPU Usage = 34%, CPU Time= 1.73, Job = 19
+Elapsed Time = 7:39.67, CPU Usage = 43%, CPU Time= 2.03, Job = 35
+Elapsed Time = 8:51.34, CPU Usage = 36%, CPU Time= 2.15, Job = 34
+Elapsed Time = 9:00.88, CPU Usage = 36%, CPU Time= 2.12, Job = 31
+Elapsed Time = 9:10.13, CPU Usage = 36%, CPU Time= 1.82, Job = 28
+Elapsed Time = 9:12.74, CPU Usage = 37%, CPU Time= 1.83, Job = 29
+Elapsed Time = 9:20.35, CPU Usage = 37%, CPU Time= 2.02, Job = 30
+Elapsed Time = 9:23.74, CPU Usage = 36%, CPU Time= 1.77, Job = 33
+Elapsed Time = 9:33.00, CPU Usage = 35%, CPU Time= 1.53, Job = 25
+Elapsed Time = 9:37.92, CPU Usage = 36%, CPU Time= 1.74, Job = 32
+Elapsed Time = 9:48.20, CPU Usage = 33%, CPU Time= 1.56, Job = 24
+Elapsed Time = 9:48.55, CPU Usage = 34%, CPU Time= 1.31, Job = 27
+Elapsed Time = 9:52.36, CPU Usage = 36%, CPU Time= 2.43, Job = 26
+Elapsed Time = 10:20.61, CPU Usage = 39%, CPU Time= 1.65, Job = 38
+Elapsed Time = 10:32.72, CPU Usage = 39%, CPU Time= 1.64, Job = 36
+Elapsed Time = 10:34.84, CPU Usage = 41%, CPU Time= 1.71, Job = 37
+Elapsed Time = 12:00.21, CPU Usage = 50%, CPU Time= 1.89, Job = 39
+Elapsed Time = 12:26.70, CPU Usage = 34%, CPU Time= 2.17, Job = 10015
+Elapsed Time = 13:04.34, CPU Usage = 34%, CPU Time= 2.37, Job = 10014
+Elapsed Time = 13:51.79, CPU Usage = 31%, CPU Time= 1.91, Job = 10013
+Elapsed Time = 14:02.57, CPU Usage = 33%, CPU Time= 2.09, Job = 10007
+Elapsed Time = 14:22.32, CPU Usage = 33%, CPU Time= 1.95, Job = 10006
+Elapsed Time = 15:43.80, CPU Usage = 32%, CPU Time= 2.20, Job = 10005
+Elapsed Time = 15:48.24, CPU Usage = 35%, CPU Time= 2.72, Job = 10010
+Elapsed Time = 15:54.18, CPU Usage = 33%, CPU Time= 2.10, Job = 10011
+Elapsed Time = 16:26.80, CPU Usage = 32%, CPU Time= 2.26, Job = 10000
+Elapsed Time = 18:06.93, CPU Usage = 41%, CPU Time= 3.36, Job = 10009
+Elapsed Time = 18:21.14, CPU Usage = 41%, CPU Time= 3.12, Job = 10004
+Elapsed Time = 18:47.38, CPU Usage = 40%, CPU Time= 3.09, Job = 10002
+Elapsed Time = 19:03.32, CPU Usage = 40%, CPU Time= 3.14, Job = 10003
+Elapsed Time = 19:07.12, CPU Usage = 39%, CPU Time= 2.68, Job = 10001
+Elapsed Time = 19:27.60, CPU Usage = 40%, CPU Time= 2.47, Job = 10008
+Elapsed Time = 20:13.92, CPU Usage = 46%, CPU Time= 3.40, Job = 10012
+Command terminated by signal 15
+Elapsed Time = 1:30.46, CPU Usage = 95%, CPU Time= 0.83, Job = 18030
+Command terminated by signal 15
+Elapsed Time = 0:03.86, CPU Usage = 102%, CPU Time= 0.21, Job = 18031
+Elapsed Time = 1:40.02, CPU Usage = 100%, CPU Time= 0.94, Job = 18032
+Elapsed Time = 1:30.18, CPU Usage = 101%, CPU Time= 0.94, Job = 18033
+Elapsed Time = 1:43.04, CPU Usage = 100%, CPU Time= 0.90, Job = 18034
+Elapsed Time = 1:42.41, CPU Usage = 100%, CPU Time= 0.87, Job = 18035
+Elapsed Time = 1:24.79, CPU Usage = 101%, CPU Time= 0.91, Job = 18036
+Elapsed Time = 1:37.90, CPU Usage = 101%, CPU Time= 0.97, Job = 18037
+Elapsed Time = 3:07.87, CPU Usage = 100%, CPU Time= 0.90, Job = 18038
+Elapsed Time = 3:09.46, CPU Usage = 100%, CPU Time= 0.97, Job = 18039
+Elapsed Time = 3:08.77, CPU Usage = 100%, CPU Time= 0.89, Job = 18040
+Elapsed Time = 3:09.87, CPU Usage = 100%, CPU Time= 0.95, Job = 18041
+Elapsed Time = 3:11.07, CPU Usage = 100%, CPU Time= 0.96, Job = 18042
+Elapsed Time = 3:08.73, CPU Usage = 100%, CPU Time= 1.00, Job = 18043
+Elapsed Time = 3:10.03, CPU Usage = 100%, CPU Time= 0.86, Job = 18044
+Elapsed Time = 3:07.11, CPU Usage = 100%, CPU Time= 0.90, Job = 18045
+Elapsed Time = 3:07.15, CPU Usage = 100%, CPU Time= 0.94, Job = 18046
+Elapsed Time = 3:07.22, CPU Usage = 100%, CPU Time= 0.97, Job = 18047
+Elapsed Time = 3:13.89, CPU Usage = 100%, CPU Time= 0.92, Job = 18048
+Elapsed Time = 3:32.73, CPU Usage = 100%, CPU Time= 0.87, Job = 18049
+Elapsed Time = 3:31.78, CPU Usage = 100%, CPU Time= 0.81, Job = 18050
+Elapsed Time = 3:30.16, CPU Usage = 100%, CPU Time= 0.90, Job = 18051
+Elapsed Time = 3:29.46, CPU Usage = 100%, CPU Time= 0.83, Job = 18052
+Elapsed Time = 0:03.69, CPU Usage = 105%, CPU Time= 0.28, Job = 18053
+Elapsed Time = 0:03.79, CPU Usage = 105%, CPU Time= 0.26, Job = 18054
+Elapsed Time = 0:04.02, CPU Usage = 105%, CPU Time= 0.26, Job = 18055
+Elapsed Time = 0:03.75, CPU Usage = 104%, CPU Time= 0.24, Job = 18056
+Elapsed Time = 0:04.00, CPU Usage = 104%, CPU Time= 0.30, Job = 18057
+Elapsed Time = 0:03.81, CPU Usage = 105%, CPU Time= 0.29, Job = 18058
+Elapsed Time = 0:03.81, CPU Usage = 104%, CPU Time= 0.25, Job = 18059
+Elapsed Time = 0:03.97, CPU Usage = 104%, CPU Time= 0.28, Job = 18060
+Elapsed Time = 0:03.93, CPU Usage = 104%, CPU Time= 0.25, Job = 18061
+Elapsed Time = 0:03.76, CPU Usage = 105%, CPU Time= 0.27, Job = 18062
+Elapsed Time = 0:03.80, CPU Usage = 105%, CPU Time= 0.27, Job = 18063
+Elapsed Time = 0:03.75, CPU Usage = 104%, CPU Time= 0.26, Job = 18064
+Elapsed Time = 0:03.90, CPU Usage = 105%, CPU Time= 0.25, Job = 18065
+Elapsed Time = 0:03.73, CPU Usage = 105%, CPU Time= 0.21, Job = 18066
+Elapsed Time = 0:03.80, CPU Usage = 104%, CPU Time= 0.27, Job = 18067
+Elapsed Time = 0:03.69, CPU Usage = 105%, CPU Time= 0.29, Job = 18068
+Elapsed Time = 0:03.99, CPU Usage = 104%, CPU Time= 0.27, Job = 18069
+Elapsed Time = 0:03.91, CPU Usage = 104%, CPU Time= 0.34, Job = 18070
+Elapsed Time = 0:03.77, CPU Usage = 105%, CPU Time= 0.29, Job = 18071
+Elapsed Time = 0:03.97, CPU Usage = 103%, CPU Time= 0.29, Job = 18072
+Elapsed Time = 0:03.88, CPU Usage = 104%, CPU Time= 0.23, Job = 18073
+Elapsed Time = 0:03.81, CPU Usage = 105%, CPU Time= 0.32, Job = 18074
+Elapsed Time = 0:04.15, CPU Usage = 103%, CPU Time= 0.29, Job = 18075
+Elapsed Time = 0:03.79, CPU Usage = 104%, CPU Time= 0.30, Job = 18076
+Command exited with non-zero status 1
+Elapsed Time = 1:23.02, CPU Usage = 84%, CPU Time= 0.73, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 1:25.93, CPU Usage = 83%, CPU Time= 1.36, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 1:25.54, CPU Usage = 85%, CPU Time= 1.26, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 2:45.34, CPU Usage = 92%, CPU Time= 1.16, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 2:50.20, CPU Usage = 92%, CPU Time= 0.59, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 2:49.70, CPU Usage = 92%, CPU Time= 0.94, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 3:00.06, CPU Usage = 92%, CPU Time= 1.00, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 3:09.94, CPU Usage = 92%, CPU Time= 1.75, Job = 4
+Command exited with non-zero status 1
+Elapsed Time = 0:00.54, CPU Usage = 63%, CPU Time= 0.02, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 0:00.53, CPU Usage = 64%, CPU Time= 0.04, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 0:00.57, CPU Usage = 65%, CPU Time= 0.01, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 0:00.50, CPU Usage = 61%, CPU Time= 0.02, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 0:00.57, CPU Usage = 66%, CPU Time= 0.03, Job = 4
+Command exited with non-zero status 1
+Elapsed Time = 0:00.55, CPU Usage = 63%, CPU Time= 0.04, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:00.54, CPU Usage = 65%, CPU Time= 0.01, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 0:00.56, CPU Usage = 67%, CPU Time= 0.04, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 0:03.31, CPU Usage = 107%, CPU Time= 0.32, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 0:03.32, CPU Usage = 104%, CPU Time= 0.25, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 0:03.32, CPU Usage = 104%, CPU Time= 0.23, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 0:03.30, CPU Usage = 104%, CPU Time= 0.25, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 0:03.29, CPU Usage = 104%, CPU Time= 0.23, Job = 4
+Command exited with non-zero status 1
+Elapsed Time = 0:03.38, CPU Usage = 103%, CPU Time= 0.23, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:03.33, CPU Usage = 104%, CPU Time= 0.28, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 0:03.38, CPU Usage = 104%, CPU Time= 0.28, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 0:03.33, CPU Usage = 107%, CPU Time= 0.34, Job = 0
+Command exited with non-zero status 1
+Elapsed Time = 0:03.57, CPU Usage = 104%, CPU Time= 0.22, Job = 3
+Command exited with non-zero status 1
+Elapsed Time = 0:03.51, CPU Usage = 102%, CPU Time= 0.21, Job = 4
+Command exited with non-zero status 1
+Elapsed Time = 0:05.80, CPU Usage = 98%, CPU Time= 0.23, Job = 6
+Elapsed Time = 0:42.02, CPU Usage = 101%, CPU Time= 0.76, Job = 1
+Elapsed Time = 0:42.03, CPU Usage = 101%, CPU Time= 0.69, Job = 2
+Elapsed Time = 1:31.68, CPU Usage = 100%, CPU Time= 0.75, Job = 5
+Elapsed Time = 1:36.00, CPU Usage = 100%, CPU Time= 0.79, Job = 7
+Elapsed Time = 0:03.39, CPU Usage = 106%, CPU Time= 0.30, Job = 0
+Elapsed Time = 0:03.25, CPU Usage = 105%, CPU Time= 0.24, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 0:03.38, CPU Usage = 100%, CPU Time= 0.21, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 0:03.58, CPU Usage = 100%, CPU Time= 0.22, Job = 3
+Elapsed Time = 0:03.75, CPU Usage = 102%, CPU Time= 0.21, Job = 4
+Elapsed Time = 0:03.56, CPU Usage = 102%, CPU Time= 0.24, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:03.70, CPU Usage = 96%, CPU Time= 0.25, Job = 6
+Elapsed Time = 0:03.39, CPU Usage = 99%, CPU Time= 0.21, Job = 7
+Elapsed Time = 0:03.25, CPU Usage = 109%, CPU Time= 0.34, Job = 0
+Elapsed Time = 0:03.29, CPU Usage = 106%, CPU Time= 0.29, Job = 1
+Command exited with non-zero status 1
+Elapsed Time = 0:03.35, CPU Usage = 104%, CPU Time= 0.27, Job = 2
+Command exited with non-zero status 1
+Elapsed Time = 0:03.37, CPU Usage = 103%, CPU Time= 0.21, Job = 3
+Elapsed Time = 0:03.34, CPU Usage = 104%, CPU Time= 0.22, Job = 4
+Elapsed Time = 0:03.35, CPU Usage = 102%, CPU Time= 0.25, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:03.38, CPU Usage = 103%, CPU Time= 0.24, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 0:03.21, CPU Usage = 103%, CPU Time= 0.22, Job = 7
+Elapsed Time = 0:03.34, CPU Usage = 107%, CPU Time= 0.24, Job = 0
+Elapsed Time = 0:03.44, CPU Usage = 103%, CPU Time= 0.29, Job = 1
+Elapsed Time = 0:04.20, CPU Usage = 87%, CPU Time= 0.24, Job = 3
+Elapsed Time = 0:07.53, CPU Usage = 47%, CPU Time= 0.25, Job = 2
+Elapsed Time = 0:05.42, CPU Usage = 65%, CPU Time= 0.28, Job = 5
+Elapsed Time = 0:08.42, CPU Usage = 43%, CPU Time= 0.25, Job = 4
+Elapsed Time = 0:09.98, CPU Usage = 47%, CPU Time= 0.27, Job = 6
+Elapsed Time = 0:09.76, CPU Usage = 44%, CPU Time= 0.18, Job = 7
+Elapsed Time = 0:03.39, CPU Usage = 106%, CPU Time= 0.29, Job = 0
+Elapsed Time = 0:03.69, CPU Usage = 94%, CPU Time= 0.28, Job = 1
+Elapsed Time = 0:03.35, CPU Usage = 104%, CPU Time= 0.26, Job = 2
+Elapsed Time = 0:03.52, CPU Usage = 102%, CPU Time= 0.24, Job = 3
+Elapsed Time = 0:03.56, CPU Usage = 101%, CPU Time= 0.24, Job = 4
+Elapsed Time = 0:03.37, CPU Usage = 102%, CPU Time= 0.24, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:03.28, CPU Usage = 104%, CPU Time= 0.27, Job = 6
+Command exited with non-zero status 1
+Elapsed Time = 0:03.22, CPU Usage = 104%, CPU Time= 0.25, Job = 7
+Elapsed Time = 0:03.32, CPU Usage = 108%, CPU Time= 0.28, Job = 0
+Elapsed Time = 0:03.24, CPU Usage = 108%, CPU Time= 0.28, Job = 1
+Elapsed Time = 0:03.34, CPU Usage = 101%, CPU Time= 0.25, Job = 2
+Elapsed Time = 0:03.49, CPU Usage = 104%, CPU Time= 0.26, Job = 3
+Elapsed Time = 0:03.55, CPU Usage = 103%, CPU Time= 0.24, Job = 4
+Elapsed Time = 0:03.38, CPU Usage = 102%, CPU Time= 0.26, Job = 5
+Elapsed Time = 0:03.46, CPU Usage = 100%, CPU Time= 0.25, Job = 6
+Elapsed Time = 0:03.21, CPU Usage = 105%, CPU Time= 0.22, Job = 7
+Elapsed Time = 0:03.61, CPU Usage = 105%, CPU Time= 0.34, Job = 0
+Elapsed Time = 0:03.34, CPU Usage = 106%, CPU Time= 0.29, Job = 1
+Elapsed Time = 0:03.35, CPU Usage = 104%, CPU Time= 0.25, Job = 2
+Elapsed Time = 0:03.56, CPU Usage = 103%, CPU Time= 0.26, Job = 3
+Elapsed Time = 0:03.43, CPU Usage = 103%, CPU Time= 0.26, Job = 4
+Elapsed Time = 0:03.54, CPU Usage = 102%, CPU Time= 0.28, Job = 5
+Command exited with non-zero status 1
+Elapsed Time = 0:03.36, CPU Usage = 103%, CPU Time= 0.27, Job = 6
+Elapsed Time = 0:03.41, CPU Usage = 101%, CPU Time= 0.24, Job = 7
+Elapsed Time = 0:03.39, CPU Usage = 107%, CPU Time= 0.30, Job = 0
+Elapsed Time = 0:03.45, CPU Usage = 102%, CPU Time= 0.26, Job = 1
+Elapsed Time = 0:03.41, CPU Usage = 104%, CPU Time= 0.26, Job = 2
+Elapsed Time = 0:03.56, CPU Usage = 100%, CPU Time= 0.21, Job = 3
+Elapsed Time = 0:03.61, CPU Usage = 98%, CPU Time= 0.21, Job = 4
+Elapsed Time = 0:03.54, CPU Usage = 100%, CPU Time= 0.23, Job = 5
+Elapsed Time = 0:03.79, CPU Usage = 98%, CPU Time= 0.28, Job = 6
+Elapsed Time = 0:03.40, CPU Usage = 104%, CPU Time= 0.25, Job = 7
+Elapsed Time = 0:05.20, CPU Usage = 97%, CPU Time= 0.22, Job = 6
+Elapsed Time = 0:05.36, CPU Usage = 99%, CPU Time= 0.16, Job = 7
+Elapsed Time = 0:45.26, CPU Usage = 101%, CPU Time= 0.66, Job = 0
+Elapsed Time = 0:45.70, CPU Usage = 100%, CPU Time= 0.58, Job = 1
+Elapsed Time = 0:58.11, CPU Usage = 100%, CPU Time= 0.63, Job = 2
+Elapsed Time = 1:52.69, CPU Usage = 100%, CPU Time= 0.68, Job = 5
+Elapsed Time = 2:03.30, CPU Usage = 99%, CPU Time= 1.13, Job = 3
+Elapsed Time = 2:02.46, CPU Usage = 100%, CPU Time= 0.64, Job = 4
+Elapsed Time = 1:11.36, CPU Usage = 95%, CPU Time= 0.66, Job = 0
+Elapsed Time = 1:10.88, CPU Usage = 95%, CPU Time= 0.70, Job = 1
+Elapsed Time = 1:11.60, CPU Usage = 96%, CPU Time= 0.64, Job = 2
+Elapsed Time = 2:23.58, CPU Usage = 98%, CPU Time= 0.70, Job = 5
+Elapsed Time = 2:31.36, CPU Usage = 97%, CPU Time= 0.62, Job = 3
+Elapsed Time = 2:32.91, CPU Usage = 97%, CPU Time= 0.71, Job = 4
+Elapsed Time = 2:38.74, CPU Usage = 98%, CPU Time= 0.69, Job = 6
+Elapsed Time = 2:45.45, CPU Usage = 96%, CPU Time= 1.42, Job = 7
+Elapsed Time = 3:11.99, CPU Usage = 99%, CPU Time= 0.76, Job = 9
+Elapsed Time = 3:16.24, CPU Usage = 98%, CPU Time= 0.59, Job = 13
+Elapsed Time = 3:20.24, CPU Usage = 99%, CPU Time= 0.66, Job = 10
+Elapsed Time = 3:18.76, CPU Usage = 99%, CPU Time= 0.56, Job = 12
+Elapsed Time = 3:23.08, CPU Usage = 99%, CPU Time= 0.69, Job = 8
+Elapsed Time = 3:18.05, CPU Usage = 98%, CPU Time= 0.66, Job = 14
+Elapsed Time = 3:19.48, CPU Usage = 99%, CPU Time= 0.84, Job = 15
+Elapsed Time = 3:29.87, CPU Usage = 99%, CPU Time= 0.76, Job = 11
+Elapsed Time = 2:48.37, CPU Usage = 47%, CPU Time= 0.59, Job = 2
+Elapsed Time = 2:54.91, CPU Usage = 46%, CPU Time= 0.47, Job = 0
+Elapsed Time = 2:54.31, CPU Usage = 46%, CPU Time= 0.50, Job = 1
+Elapsed Time = 5:37.74, CPU Usage = 55%, CPU Time= 0.61, Job = 9
+Elapsed Time = 5:53.47, CPU Usage = 56%, CPU Time= 0.91, Job = 10
+Elapsed Time = 5:50.63, CPU Usage = 54%, CPU Time= 0.75, Job = 14
+Elapsed Time = 5:53.04, CPU Usage = 54%, CPU Time= 0.78, Job = 13
+Elapsed Time = 6:00.29, CPU Usage = 55%, CPU Time= 0.70, Job = 12
+Elapsed Time = 6:12.56, CPU Usage = 54%, CPU Time= 0.72, Job = 8
+Elapsed Time = 6:07.41, CPU Usage = 54%, CPU Time= 0.58, Job = 15
+Elapsed Time = 6:22.56, CPU Usage = 57%, CPU Time= 0.77, Job = 11
+Elapsed Time = 5:46.84, CPU Usage = 55%, CPU Time= 0.81, Job = 5
+Elapsed Time = 5:47.42, CPU Usage = 57%, CPU Time= 0.76, Job = 6
+Elapsed Time = 5:50.17, CPU Usage = 56%, CPU Time= 0.71, Job = 7
+Elapsed Time = 5:58.59, CPU Usage = 58%, CPU Time= 0.78, Job = 3
+Elapsed Time = 6:00.56, CPU Usage = 57%, CPU Time= 0.86, Job = 4
+Elapsed Time = 0:55.31, CPU Usage = 95%, CPU Time= 0.67, Job = 0
+Elapsed Time = 1:14.11, CPU Usage = 82%, CPU Time= 0.52, Job = 1
+Elapsed Time = 1:12.44, CPU Usage = 81%, CPU Time= 0.54, Job = 2
+Elapsed Time = 6:02.08, CPU Usage = 49%, CPU Time= 0.51, Job = 5
+Elapsed Time = 6:00.67, CPU Usage = 51%, CPU Time= 0.65, Job = 6
+Elapsed Time = 6:18.19, CPU Usage = 51%, CPU Time= 0.69, Job = 3
+Elapsed Time = 6:16.01, CPU Usage = 50%, CPU Time= 0.63, Job = 9
+Elapsed Time = 6:48.44, CPU Usage = 50%, CPU Time= 0.60, Job = 4
+Elapsed Time = 6:38.35, CPU Usage = 50%, CPU Time= 0.62, Job = 7
+Elapsed Time = 6:50.26, CPU Usage = 50%, CPU Time= 0.56, Job = 8
+Elapsed Time = 6:36.59, CPU Usage = 49%, CPU Time= 0.61, Job = 13
+Elapsed Time = 6:32.44, CPU Usage = 49%, CPU Time= 0.59, Job = 14
+Elapsed Time = 6:56.45, CPU Usage = 49%, CPU Time= 0.57, Job = 10
+Elapsed Time = 6:46.74, CPU Usage = 50%, CPU Time= 0.65, Job = 12
+Elapsed Time = 6:36.25, CPU Usage = 51%, CPU Time= 0.69, Job = 15
+Elapsed Time = 6:24.13, CPU Usage = 50%, CPU Time= 0.54, Job = 18
+Elapsed Time = 6:30.49, CPU Usage = 52%, CPU Time= 0.61, Job = 17
+Elapsed Time = 7:03.26, CPU Usage = 51%, CPU Time= 0.58, Job = 11
+Elapsed Time = 6:39.57, CPU Usage = 50%, CPU Time= 0.67, Job = 16
+Elapsed Time = 6:31.46, CPU Usage = 52%, CPU Time= 0.81, Job = 19
+Elapsed Time = 0:03.31, CPU Usage = 108%, CPU Time= 0.32, Job = 8
+Elapsed Time = 0:03.21, CPU Usage = 107%, CPU Time= 0.30, Job = 7
+Elapsed Time = 0:03.34, CPU Usage = 106%, CPU Time= 0.30, Job = 0
+Elapsed Time = 0:03.31, CPU Usage = 106%, CPU Time= 0.28, Job = 1
+Elapsed Time = 0:03.27, CPU Usage = 104%, CPU Time= 0.23, Job = 2
+Elapsed Time = 0:03.31, CPU Usage = 103%, CPU Time= 0.25, Job = 3
+Elapsed Time = 0:03.38, CPU Usage = 104%, CPU Time= 0.28, Job = 4
+Elapsed Time = 0:03.36, CPU Usage = 103%, CPU Time= 0.21, Job = 5
+Elapsed Time = 0:03.29, CPU Usage = 105%, CPU Time= 0.24, Job = 6
+Elapsed Time = 0:03.29, CPU Usage = 103%, CPU Time= 0.25, Job = 7
+Elapsed Time = 0:03.29, CPU Usage = 108%, CPU Time= 0.27, Job = 0
+Elapsed Time = 0:03.30, CPU Usage = 106%, CPU Time= 0.27, Job = 1
+Elapsed Time = 0:03.40, CPU Usage = 104%, CPU Time= 0.23, Job = 2
+Elapsed Time = 0:03.41, CPU Usage = 102%, CPU Time= 0.24, Job = 3
+Elapsed Time = 0:03.38, CPU Usage = 102%, CPU Time= 0.26, Job = 4
+Elapsed Time = 0:03.47, CPU Usage = 102%, CPU Time= 0.23, Job = 5
+Elapsed Time = 0:03.47, CPU Usage = 100%, CPU Time= 0.20, Job = 6
+Elapsed Time = 0:03.34, CPU Usage = 102%, CPU Time= 0.30, Job = 7
+Command exited with non-zero status 1
+Elapsed Time = 0:06.99, CPU Usage = 75%, CPU Time= 0.15, Job = 18198
+Elapsed Time = 3:40.20, CPU Usage = 85%, CPU Time= 0.95, Job = 18189
+Elapsed Time = 3:45.47, CPU Usage = 86%, CPU Time= 0.61, Job = 18193
+Elapsed Time = 3:48.60, CPU Usage = 87%, CPU Time= 0.77, Job = 18190
+Elapsed Time = 3:52.51, CPU Usage = 85%, CPU Time= 1.39, Job = 18191
+Elapsed Time = 3:52.05, CPU Usage = 86%, CPU Time= 0.72, Job = 18192
+Elapsed Time = 3:49.17, CPU Usage = 86%, CPU Time= 0.63, Job = 18195
+Elapsed Time = 3:50.21, CPU Usage = 87%, CPU Time= 0.69, Job = 18194
+Elapsed Time = 3:48.91, CPU Usage = 87%, CPU Time= 0.70, Job = 18196
+Elapsed Time = 3:49.91, CPU Usage = 86%, CPU Time= 1.27, Job = 18197
+Elapsed Time = 0:14.99, CPU Usage = 103%, CPU Time= 1.64, Job = 0
+Elapsed Time = 0:13.55, CPU Usage = 91%, CPU Time= 1.13, Job = 4
+Elapsed Time = 0:08.97, CPU Usage = 84%, CPU Time= 0.69, Job = 11
+Elapsed Time = 1:09.86, CPU Usage = 73%, CPU Time= 3.37, Job = 10
+Elapsed Time = 9:05.55, CPU Usage = 78%, CPU Time= 28.12, Job = 6
+Elapsed Time = 10:19.31, CPU Usage = 78%, CPU Time= 32.67, Job = 9
+Elapsed Time = 15:07.19, CPU Usage = 83%, CPU Time= 49.30, Job = 16
+Elapsed Time = 17:23.17, CPU Usage = 85%, CPU Time= 57.84, Job = 17
+Elapsed Time = 19:08.37, CPU Usage = 86%, CPU Time= 62.13, Job = 3
+Elapsed Time = 19:28.42, CPU Usage = 87%, CPU Time= 67.45, Job = 14
+Elapsed Time = 37:10.92, CPU Usage = 93%, CPU Time= 139.83, Job = 1
+Elapsed Time = 37:39.40, CPU Usage = 93%, CPU Time= 144.08, Job = 7
+Elapsed Time = 37:49.18, CPU Usage = 93%, CPU Time= 140.97, Job = 13
+Elapsed Time = 46:25.12, CPU Usage = 94%, CPU Time= 176.26, Job = 5
+Elapsed Time = 47:08.47, CPU Usage = 94%, CPU Time= 180.65, Job = 18
+Elapsed Time = 51:49.64, CPU Usage = 95%, CPU Time= 197.16, Job = 15
+Elapsed Time = 1:12:58, CPU Usage = 96%, CPU Time= 293.70, Job = 8
+Elapsed Time = 1:37:56, CPU Usage = 97%, CPU Time= 408.75, Job = 12
+Elapsed Time = 2:39:13, CPU Usage = 98%, CPU Time= 656.95, Job = 2

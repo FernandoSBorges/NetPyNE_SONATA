@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "$OUTPUT_DIR": "$CIRCUIT_DIR/simulation_results",
+    "$CIRCUIT_DIR": "."
+  },
+  "run": {
+    "tstop": 1000.0,
+    "dt": 0.025,
+    "seed": 264118
+  },
+  "target_simulator": "CORENEURON",
+  "network": "$CIRCUIT_DIR/circuit_config.json",
+  "node_sets_file": "$CIRCUIT_DIR/node_sets.json",
+  "inputs": {},
+  "output": {
+    "output_dir": "$OUTPUT_DIR",
+    "log_file": "simout-914515.log",
+    "spikes_file": "out.h5",
+    "spikes_sort_order": "time"
+  },
+  "reports": {
+    "soma_report": {
+      "cells": "CA1",
+      "variable_name": "v",
+      "sections": "soma",
+      "enabled": true,
+      "Dt": 0.1,
+      "file_name": "soma"
+    }
+  }
+}

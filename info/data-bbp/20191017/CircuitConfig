@@ -1,0 +1,21 @@
+Run Default
+{
+    BioName /gpfs/bbp.cscs.ch/project/proj42/circuits/CA1.O1/mooc-circuit/bioname
+    Atlas /gpfs/bbp.cscs.ch/project/proj42/circuits/CA1.O1/mooc-circuit/atlas
+
+    CircuitPath  /gpfs/bbp.cscs.ch/project/proj42/circuits/CA1.O1/mooc-circuit/
+    MorphologyPath /gpfs/bbp.cscs.ch/project/proj42/circuits/CA1.O1/mooc-circuit/morphologies/swc
+    nrnPath sonata/edges/edges_hippocampus.h5
+    CellLibraryFile sonata/nodes/nodes_hippocampus.h5
+
+    METypePath /gpfs/bbp.cscs.ch/project/proj42/entities/emodels/20190402/hoc
+    MEComboInfoFile /gpfs/bbp.cscs.ch/project/proj42/entities/emodels/20190402/mecombo_emodel.tsv
+
+
+    TargetFile /gpfs/bbp.cscs.ch/project/proj42/circuits/CA1.O1/mooc-circuit/user.target
+}
+
+Projection SC
+{
+    Path sonata/edges/edges_hippocampus_projections.h5
+}

@@ -1,0 +1,12 @@
+from      to       mean          std   	       size    sample	type
+SP_BS     SP_PC    6.0           0.0           1.0     N/A	ie
+SP_PVBC   PV       1.546875      1.0831821193  64.0    N/A	ii
+SP_PC     SO_OLM   2.8           0.8           6.0     N/A	ei
+SO_OLM    SP_PC    10.0          7.0           2.0     N/A	ie
+SP_AA     SP_PC    6.1           nan           10.0    N/A	ie
+SP_PC     SP_PC    1.2           0.4           6.0     N/A	ee
+SP_CCKBC  SP_PC    8.3           0.8           14.0    N/A	ie
+SR_SCA    SP_PC    5.3333333333  1.1547005384  3.0     N/A	ie
+SO_BS     SP_PC    6.0           0.0           1.0     N/A	ie
+SP_PVBC   SP_PC    11.0          0.6           15.0    N/A	ie
+SR_SCA    SR_SCA   3.5           1.5           12      N/A	ii

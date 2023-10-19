@@ -1,0 +1,141 @@
+{
+    "simConfig": {
+        "addSynMechs": true,
+        "allowConnsWithWeight0": true,
+        "allowSelfConns": false,
+        "allpops": [
+            "Pyramidal",
+            "OLM",
+            "BS",
+            "Basket",
+            "AA"
+        ],
+        "analysis": {
+            "plot2Dnet": {
+                "saveFig": true
+            },
+            "plotRaster": {
+                "dpi": 300,
+                "figSize": [
+                    18,
+                    12
+                ],
+                "fontSize": 9,
+                "labels": "legend",
+                "lw": 2,
+                "marker": ".",
+                "markerSize": 4,
+                "orderInverse": true,
+                "popRates": true,
+                "saveFig": true,
+                "showFig": false
+            },
+            "plotTraces": {
+                "figSize": [
+                    18,
+                    12
+                ],
+                "include": [
+                    [
+                        "Pyramidal",
+                        [
+                            10,
+                            50,
+                            90
+                        ]
+                    ],
+                    [
+                        "AA",
+                        0
+                    ],
+                    [
+                        "Basket",
+                        [
+                            0,
+                            1
+                        ]
+                    ],
+                    [
+                        "OLM",
+                        0
+                    ],
+                    [
+                        "BS",
+                        0
+                    ]
+                ],
+                "oneFigPer": "trace",
+                "overlay": false,
+                "saveFig": true
+            }
+        },
+        "backupCfgFile": null,
+        "cache_efficient": false,
+        "checkErrors": false,
+        "checkErrorsVerbose": false,
+        "compactConnFormat": false,
+        "connRandomSecFromList": true,
+        "createNEURONObj": true,
+        "createPyStruct": true,
+        "cvode_active": false,
+        "cvode_atol": 0.001,
+        "distributeSynsUniformly": true,
+        "dt": 0.025,
+        "duration": 2000.0,
+        "filename": "model_output",
+        "gatherOnlySimData": false,
+        "hParams": {
+            "celsius": 34.0,
+            "clamp_resist": 0.001,
+            "v_init": -65.0
+        },
+        "includeParamsLabel": true,
+        "invertedYCoord": true,
+        "oneSynPerNetcon": true,
+        "printPopAvgRates": true,
+        "printRunTime": 0.1,
+        "printSynsAfterRule": false,
+        "pt3dRelativeToCellLocation": true,
+        "rand123GlobalIndex": null,
+        "recordCells": [],
+        "recordCellsSpikes": -1,
+        "recordDipoles": false,
+        "recordLFP": [],
+        "recordStep": 0.1,
+        "recordStim": true,
+        "recordTime": true,
+        "recordTraces": {
+            "V_soma": {
+                "loc": 0.5,
+                "sec": "soma",
+                "var": "v"
+            }
+        },
+        "saveCSV": false,
+        "saveCellConns": true,
+        "saveCellSecs": false,
+        "saveDat": false,
+        "saveDataInclude": [
+            "simData"
+        ],
+        "saveDpk": false,
+        "saveFolder": "../data/v0_batch0",
+        "saveHDF5": false,
+        "saveJson": true,
+        "saveLFPCells": false,
+        "saveMat": false,
+        "savePickle": false,
+        "saveTiming": false,
+        "seeds": {
+            "conn": 1,
+            "loc": 1,
+            "stim": 1
+        },
+        "simLabel": "v0_batch0_0",
+        "timestampFilename": false,
+        "timing": true,
+        "tstop": 1000.0,
+        "use_fast_imem": false,
+        "verbose": 0
+    }
+}
