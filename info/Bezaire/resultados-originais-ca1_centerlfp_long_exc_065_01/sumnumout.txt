@@ -1,7 +1,0 @@
-NumCells = 793440;
-NumSpikes = 1.06265e+07;
-NumConnections = 5.14159e+09;
-RunTime = 84965.3;
-NumCellTypes = 11;
-LoadBalResult = 0.996483;
-ExchangeResult = 198.779;
