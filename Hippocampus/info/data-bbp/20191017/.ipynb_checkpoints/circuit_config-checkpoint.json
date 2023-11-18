@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "$BASE_DIR": ".",
+    "$COMPONENT_DIR": "$BASE_DIR",
+    "$NETWORK_DIR": "$BASE_DIR/sonata"
+  },
+  "components": {
+    "morphologies_dir": "$COMPONENT_DIR/morphologies/swc",
+    "mechanisms_dir": "$COMPONENT_DIR/mechanisms_dir",
+    "biophysical_neuron_models_dir": "$COMPONENT_DIR/biophysical_neuron_models"
+  },
+  "node_sets_file": "$BASE_DIR/node_sets.json",
+  "networks": {
+    "nodes": [
+      {
+        "nodes_file": "$NETWORK_DIR/nodes/nodes.h5",
+        "node_types_file": null
+      }
+    ],
+    "edges": [
+      {
+        "edges_file": "$NETWORK_DIR/edges/edges.h5",
+        "edge_types_file": null
+      }
+    ]
+  }
+}
