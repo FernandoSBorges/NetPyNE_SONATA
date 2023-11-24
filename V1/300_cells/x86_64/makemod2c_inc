@@ -1,0 +1,136 @@
+./CaDynamics.c: ../../shared_components/mechanisms/modfiles//CaDynamics.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "CaDynamics.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./CaDynamics.o: ./CaDynamics.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Ca_HVA.c: ../../shared_components/mechanisms/modfiles//Ca_HVA.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Ca_HVA.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Ca_HVA.o: ./Ca_HVA.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Ca_LVA.c: ../../shared_components/mechanisms/modfiles//Ca_LVA.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Ca_LVA.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Ca_LVA.o: ./Ca_LVA.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Ih.c: ../../shared_components/mechanisms/modfiles//Ih.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Ih.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Ih.o: ./Ih.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Im.c: ../../shared_components/mechanisms/modfiles//Im.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Im.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Im.o: ./Im.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Im_v2.c: ../../shared_components/mechanisms/modfiles//Im_v2.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Im_v2.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Im_v2.o: ./Im_v2.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Kd.c: ../../shared_components/mechanisms/modfiles//Kd.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Kd.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Kd.o: ./Kd.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./K_P.c: ../../shared_components/mechanisms/modfiles//K_P.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "K_P.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./K_P.o: ./K_P.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./K_T.c: ../../shared_components/mechanisms/modfiles//K_T.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "K_T.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./K_T.o: ./K_T.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Kv2like.c: ../../shared_components/mechanisms/modfiles//Kv2like.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Kv2like.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Kv2like.o: ./Kv2like.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Kv3_1.c: ../../shared_components/mechanisms/modfiles//Kv3_1.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Kv3_1.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Kv3_1.o: ./Kv3_1.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./Nap.c: ../../shared_components/mechanisms/modfiles//Nap.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "Nap.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./Nap.o: ./Nap.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./NaTa.c: ../../shared_components/mechanisms/modfiles//NaTa.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "NaTa.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./NaTa.o: ./NaTa.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./NaTs.c: ../../shared_components/mechanisms/modfiles//NaTs.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "NaTs.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./NaTs.o: ./NaTs.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./NaV.c: ../../shared_components/mechanisms/modfiles//NaV.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "NaV.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./NaV.o: ./NaV.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./SK.c: ../../shared_components/mechanisms/modfiles//SK.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "SK.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./SK.o: ./SK.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+
+./vecevent.c: ../../shared_components/mechanisms/modfiles//vecevent.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\\n"
+	(cd "../../shared_components/mechanisms/modfiles";  MODLUNIT=$(NRNUNITS) $(NOCMODL) "vecevent.mod" -o "/home/fernando/NetPyNE_SONATA/V1/300_cells/x86_64")
+
+./vecevent.o: ./vecevent.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\\n"
+	$(COMPILE) -I"../../shared_components/mechanisms/modfiles" $(INCLUDES) -fPIC -c $< -o $@
+

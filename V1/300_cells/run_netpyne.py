@@ -29,9 +29,9 @@ saveJsonPsection = 0
 saveJsonConns = 0
 runPlot = 1
 compareRaster = 1
-compareTraces = 0
+compareTraces = 1
 saveSpikesToBMTK = 1
-plotSpikesUsingBMTK = 0
+plotSpikesUsingBMTK = 1
 
 # Improt SONATA model and instantiate in netpyne
 if importSonataModel:
