@@ -1,0 +1,26 @@
+/*                                                                               
+Copyright (c) BBP/EPFL 2020-2022.
+This work is licenced under Creative Common CC BY-NC-SA-4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)                                      
+*/   
+
+load_file("nrngui.hoc")
+load_file("createsimulation.hoc")
+{%- if main_protocol %}
+load_file("main_protocol.hoc")
+{%- endif %}
+
+// By default, disable the step currents
+strdef stepcurrent
+stepcurrent = "none"
+
+// Set up simulation
+create_cell()
+access cell.soma
+create_recording()
+
+{%- if main_protocol %}
+// run rmp, Rin and threshold detection
+main_prot_run()
+// run pre-protocols and other protocols
+{%- endif %}
+run_simulation()

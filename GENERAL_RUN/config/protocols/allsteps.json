@@ -1,0 +1,53 @@
+{
+    "Step_150": {
+        "type": "StepProtocol",
+        "stimuli": {
+            "step": {
+                "delay": 700.0,
+                "amp": 0.20915625,
+                "duration": 2000.0,
+                "totduration": 3000.0
+            },
+            "holding": {
+                "delay": 0.0,
+                "amp": -0.0896244038173676,
+                "duration": 3000.0,
+                "totduration": 3000.0
+            }
+        }
+    },
+    "Step_200": {
+        "type": "StepProtocol",
+        "stimuli": {
+            "step": {
+                "delay": 700.0,
+                "amp": 0.278875,
+                "duration": 2000.0,
+                "totduration": 3000.0
+            },
+            "holding": {
+                "delay": 0.0,
+                "amp": -0.0896244038173676,
+                "duration": 3000.0,
+                "totduration": 3000.0
+            }
+        }
+    },
+    "Step_250": {
+        "type": "StepProtocol",
+        "stimuli": {
+            "step": {
+                "delay": 700.0,
+                "amp": 0.34859375,
+                "duration": 2000.0,
+                "totduration": 3000.0
+            },
+            "holding": {
+                "delay": 0.0,
+                "amp": -0.0896244038173676,
+                "duration": 3000.0,
+                "totduration": 3000.0
+            }
+        }
+    }
+}
