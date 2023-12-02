@@ -23,3 +23,12 @@ def loadCell2(hocName, MorphoName):
     cell = getattr(h,  hocName)(gid,MorphologyPath+MorphoName)
 
     return cell
+    
+    
+def loadCell3(hocName, MorphoName):    
+
+    h.load_file("createsimulation.hoc")
+    h.create_cell()
+    cell = h.cell
+
+    return cell
